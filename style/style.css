@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    background-color: #3B3F41;
+    background-image: url("foto/backgroundimage.png");
+}
+
+.avatar{
+    width: 220px;
+    height: 220px;
+    border-radius: 10%;
+    border: 0px;
+    box-shadow: 0 2px 2px rgba(0,0,0,0.3);
+}
+
+.horhorik{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.jobs{
+    margin-top: 0px;
+    margin-left: 20px;
+    color: #83898B;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+.about-me{
+    margin-top: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #A1A5A7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.skills-list{
+    list-style: none;
+    margin-left: 20px;
+}
+
+.skills-button{
+    background: #63B3ED40;
+    height: 40px;
+    width: 40px;
+    border: 0px solid #63B3ED40;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: #63B3ED;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.skills-item{
+    margin-top: 20px;
+}
+
+.hacker{
+    margin-top: 30px;
+    margin-left: 10px;
+    color: #A1A5A7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+.frontend-dev{
+    margin-top: 39px;
+    margin-left: 10px;
+    color: #A1A5A7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+.ai-dev{
+    margin-top: 40px;
+    margin-left: 10px;
+    color: #A1A5A7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
