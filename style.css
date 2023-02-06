@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    background-color: #3B3F41;
+    background-image: url("foto/backgroundimage.png");
+}
+
+.avatar{
+    width: 220px;
+    height: 220px;
+    border-radius: 10%;
+    border: 0px;
+    box-shadow: 0 2px 2px rgba(0,0,0,0.3);
+}
+
+.horhorik{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.jobs{
+    margin-top: 0px;
+    margin-left: 20px;
+    color: #83898B;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+.about-me{
+    margin-top: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #A1A5A7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.skills-list{
+    list-style: none;
+    margin-left: 20px;
+}
+
+.skills-button{
+    background: #63B3ED40;
+    height: 40px;
+    width: 40px;
+    border: 0px solid #63B3ED40;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: #63B3ED;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.skills-item{
+    margin-top: 20px;
+}
+
+.hacker{
+    margin-top: 30px;
+    margin-left: 10px;
+    color: #A1A5A7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+.frontend-dev{
+    margin-top: 39px;
+    margin-left: 10px;
+    color: #A1A5A7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+.ai-dev{
+    margin-top: 40px;
+    margin-left: 10px;
+    color: #A1A5A7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+.dazai-Social{
+    list-style: none;
+}
+
+.dazai-fandom{
+    background-color: #ff6766;  
+}
+
+.bi-fire{
+    color: #fff;
+}
+
+
+.dazai{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+
+.dazaifoto{
+    border-radius: 30px;
+    height: 200px;
+    width: 200px;
+}
+
+.d-title{
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 30px;
+    color: white;
+}
+
+.d-text{
+    color: #A1A5A7;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-right: 20px ;
+}
+.padding-30{
+    padding-top: 30px;
+}
+
+.padding-40{
+    padding-top: 40px;
+}
+
+.padding-10{
+    padding-top: 10px;
+}
+
+.padding-50{
+    padding-top: 50px;
+}
+
+.padding-bottom{
+    padding-bottom: 50px;
+}
+
+.project-box{
+    background-color: #55595a;
+    width: 370px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+.project-box-title{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    margin-bottom: 0px;
+}
+
+.active{
+    text-align: center;
+    border: 0px;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 60px;
+    border-radius: 50px;
+    background-color: #527262;
+    color: #62cb8b;
+    margin-bottom: 0px;
+}
+
+.project-box-text{
+    margin-left: 20px;
+    color: #A1A5A7;
+}
+
+.arrow{
+    margin-left: 250px;
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #527262;
+    color: #fff;
+    border: 0px;
+}
+
+.go{
+    color: white;
+}
+
+a:hover{
+    color: white;
+    
+}
+.bi{
+    font-size: 20px;
+}
+
+.fa{
+    font-size: 20px;
+    justify-content: center;
+}
+
+.btnn{
+    margin-top: 10px;
+}
+
+.social{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 14px;
+}
+
+.bttn{
+    background: #fff;
+    border: 0px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: #000;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+}
+ 
+/*github*/
+
+.bi-github{
+    color: #fff;
+}
+.github{
+    background-color: #0f1111;
+}
+
+/*spotify*/
+
+.bi-spotify{
+    color: #fff;
+}
+.spotify{
+    background-color: #1ED760;
+}
+
+/*instagram*/
+
+.bi-instagram{
+    color: #fff;
+}
+.instagram{
+    background-color: #7431f9;
+
+}
+
+/*youtube*/
+
+.bi-youtube{
+    color: #fff;
+}
+.youtube{
+    background-color: #ff0000 ;
+}
+
+
+.my-favorite-song{
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.song{
+    background-color: #455C6D;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.song-name{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.song-artist{
+    font-size: 15px;
+    color: #A1A5A7;
+    text-align: center;
+}
+
+.wiew-song{
+    margin-left: 200px;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 1px;
+
+    border-radius: 50px;
+    background-color: #527262;
+    color: #fff;
+    border: 0px;
+}
